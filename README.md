@@ -19,8 +19,8 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/quSICci.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/4GyMA0n.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
@@ -30,7 +30,7 @@ The first step to take is to make a new role called Supreme Admin. For the purpo
 <br />
 
 <p>
-<img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/ZWLgwNF.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 Next, a new Department will be created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.
@@ -38,7 +38,7 @@ Next, a new Department will be created for System Administrators. In the Admin p
 <br />
 
 <p>
-<img src="https://i.imgur.com/d7WuRn8.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/D3hjjpV.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 A new Level II Support Team will have to be created to supplement the Level I Support Team already made within osTicket. To create a new Team, enter the Admin panel and open the Agents menu. Click on Teams and add any new teams that need to be created.
@@ -46,8 +46,9 @@ A new Level II Support Team will have to be created to supplement the Level I Su
 <br />
 
 <p>
-<img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/0akD0yp.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/z9CueZ3.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/KatTkTL.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 New agents will have to be created so they can take tickets that come to the queue. To create new agents, enter the Admin panel and open the Agents menu. Click on Add New Agent and create the account credentials for each new agent. In this case, Jane and John Doe are created.
